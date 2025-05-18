@@ -1,0 +1,45 @@
+.heading1, .heading2, .heading3{
+  text-align: center;
+}
+
+
+.banner{
+  width: 100%;
+  height: 100vh;
+  background-image: url("assets/banerrr.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.banner1{
+  width: 100%;
+  height: 100vh;
+  background-image: url("assets/ban.jpeg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.card img{
+  width:100%;
+  height: 50vh;
+}
+.test{
+  background-color: #028DB2;
+  border: 1px solid #028DB2;
+  border-radius: 4px;
+}
+
+.foot{
+  text-align: center;
+  padding: 30px;
+  border-top: 1px solid grey;
+}
+footer{
+  border-top: 1px solid grey;
+  background-color: #004380;
+  color: white;
+}
+
+
+
+
